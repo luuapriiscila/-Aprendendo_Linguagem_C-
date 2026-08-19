@@ -1,9 +1,11 @@
 #include <stdio.h>
 int main(){
+    //Declaração de variáveis
     float nota1;
     float nota2;
     float nota3; 
-    
+
+    //Leitura das variáveis
     printf("Informe a nota 1:");
     scanf("%f", &nota1);
     
